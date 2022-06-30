@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Nuno</h1>
-- 🎓 [Informatics Engineering - University of Coimbra](https://www.uc.pt/en)
+- 🎓 Informatics Engineering - <a href=https://www.uc.pt/en> University of Coimbra
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
