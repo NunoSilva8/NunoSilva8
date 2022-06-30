@@ -1,3 +1,6 @@
+<h1 align="center">Hi! I'm Nuno</h1>
+- 🎓 [Informatics Engineering - University of Coimbra](https://www.uc.pt/en)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
