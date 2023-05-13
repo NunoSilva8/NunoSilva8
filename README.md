@@ -1,5 +1,7 @@
 <h1 align="left">Hi! I'm Nuno</h1>
-- 🎓 Informatics Engineering - <a href=https://www.uc.pt/en> University of Coimbra
+- 🎓 Bachelor's Degree in Informatics Engineering - <a href=https://www.uc.pt/en> University of Coimbra
+
+
 
 <details>
   <summary><h2 align="left">Languages and Tools (click me to expand)</h2></summary>
@@ -54,3 +56,5 @@
   </p>
   
 </details>
+
+<p>(In the pinned section, you can find some repositories that I contributed to.)</p>
