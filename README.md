@@ -57,4 +57,4 @@
   
 </details>
 
-<p>(In the pinned section, you can find some repositories that I contributed to.)</p>
+<p>(In the pinned section, you can find some repositories that I contributed to)</p>
