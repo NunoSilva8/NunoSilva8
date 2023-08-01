@@ -1,5 +1,6 @@
 <h1 align="left">Hi! I'm Nuno</h1>
 - 🎓 Bachelor's Degree in Informatics Engineering - <a href=https://www.uc.pt/en> University of Coimbra
+- 🎓 Master's Degree in Informatics Engineering (Software Engineering)- <a href=https://www.uc.pt/en> University of Coimbra
 
 
 
