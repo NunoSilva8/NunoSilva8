@@ -1,11 +1,12 @@
 <h1 align="left">Hi! I'm Nuno</h1>
-- 🎓 Bachelor's Degree in Informatics Engineering - <a href=https://www.uc.pt/en> University of Coimbra
-- 🎓 Master's Degree in Informatics Engineering (Software Engineering)- <a href=https://www.uc.pt/en> University of Coimbra
+- 🎓 Bachelor's Degree in Informatics Engineering - <a href=https://www.uc.pt/en> University of Coimbra </a>
+<br>
+- 🎓 Master's Degree in Informatics Engineering (Software Engineering) - <a href=https://www.uc.pt/en> University of Coimbra </a>
 
 
 
 <details>
-  <summary><h2 align="left">Languages and Tools (click me to expand)</h2></summary>
+  <summary><h2 align="left">Languages and Tools (click to expand)</h2></summary>
   
   <h3 align="left">Programming Languages:</h3>
   <p align="left">
